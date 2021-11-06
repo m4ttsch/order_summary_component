@@ -21,7 +21,7 @@ body {
 
 body {
   background: url("images/pattern-background-desktop.svg") var(--pale-blue) top
-    no-repeat;
+    repeat-x;
 }
 
 main {
